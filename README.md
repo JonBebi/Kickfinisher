@@ -63,3 +63,6 @@ __CA__
 * __Decision Tree__: _67.43%_
 * __Random Forest__: _68.02%_
 * __XGBoost__: _69.29%_
+
+### _Slide presentation_:
+https://docs.google.com/presentation/d/1Kvj8NlkpkhXqdh9uAscw7O8LpFq-81ChXF-F7HXyPnU/edit?usp=sharing
