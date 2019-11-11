@@ -1,6 +1,6 @@
 # Kickfinisher
 
-This project is about trying to classify the success of a Kickstarter project before it launches.
+This project is about trying to predict the success of a Kickstarter project before it launches.
 
 ### Source:
 https://www.kaggle.com/kemical/kickstarter-projects
