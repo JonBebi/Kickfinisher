@@ -1,9 +1,10 @@
 # Kickfinisher
 
-This project is about trying to classify the success of a Kickstarter project before it launches.
+This project is about trying to predict the success of a Kickstarter project before it launches.
 
 ### Source:
 https://www.kaggle.com/kemical/kickstarter-projects
+
 There are more than 300,000 Kickstarter projects from 22 countries.
 
 ## EDA
@@ -63,6 +64,3 @@ __CA__
 * __Decision Tree__: _67.43%_
 * __Random Forest__: _68.02%_
 * __XGBoost__: _69.29%_
-
-### _Slide presentation_:
-https://docs.google.com/presentation/d/1Kvj8NlkpkhXqdh9uAscw7O8LpFq-81ChXF-F7HXyPnU/edit?usp=sharing
